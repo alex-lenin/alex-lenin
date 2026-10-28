@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @alex-lenin
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-
+# Hi, I’m Alex 👋
